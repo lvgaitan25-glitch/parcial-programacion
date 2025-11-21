@@ -16,6 +16,6 @@ Este proyecto consiste en un sistema de gestión de citas médicas diseñado par
 # tecnologias utilizadas
 1. **lenguaje de programacion:** (java)
 
-# Codigo
+
 
 
